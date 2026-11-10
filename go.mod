@@ -1,4 +1,4 @@
-module binary-clock
+module github.com/Ah3ron/binary-clock
 
 go 1.24.0
 
